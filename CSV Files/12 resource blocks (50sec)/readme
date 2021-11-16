@@ -1,0 +1,5 @@
+Total number of resource block allocation in this file is "12".
+cc0_sc_d1 -> This csv file is the result for "single cell with secondary GNB" in downlink scenerio with 50sec of simulation.
+cc0_sc_ul -> This csv file is the result for "single cell with secondary GNB" in uplink scenerio with 50sec of simulation.
+cc0_mc_dl -> This csv file is the result for "multi cell with secondary GNB" in downlink scenerio with 50sec of simulation.
+cc0_mc_ul -> This csv file is the result for "multi cell with secondary GNB" in uplink scenerio with 50sec of simulation.
